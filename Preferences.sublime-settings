@@ -1,3 +1,6 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme"
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 10.0,
+	"trim_automatic_white_space": true
 }
